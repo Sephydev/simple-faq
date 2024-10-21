@@ -45,3 +45,7 @@ h2 {
 main p {
   margin: 2rem 0;
 }
+
+a {
+  text-decoration: none;
+}
