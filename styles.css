@@ -23,7 +23,7 @@ h1 {
   font-size: 2.25rem;
 }
 
-p {
+header p {
   margin-top: 1rem;
 }
 
@@ -40,4 +40,8 @@ h1, h2 {
 
 h2 {
   font-size: 1.5rem;
+}
+
+main p {
+  margin-top: 2rem;
 }
