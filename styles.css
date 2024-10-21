@@ -24,5 +24,8 @@ h1 {
 
 p {
   margin-top: 1rem;
+}
+
+header p {
   margin-bottom: 4rem;
 }
