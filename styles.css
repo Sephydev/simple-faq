@@ -46,11 +46,6 @@ main p {
   margin: 2rem 0;
 }
 
-
-li {
-  margin-top: 0.75rem;
-}
-
 a {
   text-decoration: none;
   color: #4E80EE;
@@ -58,9 +53,10 @@ a {
 
 ol, ul {
   padding-left: 1.1rem;
+  line-height: 2rem;
 }
 
 hr {
   border:0.1rem solid #D2D5DA;
-  margin-bottom: 2rem;
+  margin: 2rem 0;
 }
