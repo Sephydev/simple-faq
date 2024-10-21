@@ -50,3 +50,7 @@ a {
   text-decoration: none;
   color: #4E80EE;
 }
+
+li {
+  margin-top: 0.75rem;
+}
