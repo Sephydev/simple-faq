@@ -60,3 +60,7 @@ hr {
   border:0.1rem solid #D2D5DA;
   margin: 2rem 0;
 }
+
+hr, section {
+  max-width: 50rem;
+}
