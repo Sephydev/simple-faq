@@ -12,6 +12,8 @@ body {
   font-weight: 400;
 }
 
+/* HEADER */
+
 header {
   text-align: center;
 }
@@ -28,4 +30,10 @@ p {
 
 header p {
   margin-bottom: 4rem;
+}
+
+/* MAIN */
+
+h2 {
+  font-size: 1.5rem;
 }
